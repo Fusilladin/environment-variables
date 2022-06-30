@@ -13,6 +13,9 @@ py -m venv [name]
 # Create a file
 type nul > example.py
 
+# Create requirements.txt
+pip freeze > requirements.txt
+
 
 
 
